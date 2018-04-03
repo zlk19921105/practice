@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.function.Predicate;
 
-/**lambda表达式的使用例子
+/**lambda表达式例子
  * @author zhoulk
  *         Date:  2018/4/2.
  */
